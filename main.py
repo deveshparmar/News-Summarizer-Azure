@@ -107,5 +107,5 @@ def decode_sequence(input_seq):
 
 
 if __name__ == "__main__":
-    app.run(debug=True,host='0.0.0.0')
-    print("test")
+    app.run(debug=True)
+    
